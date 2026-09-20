@@ -1,7 +1,7 @@
-# Development Journal
-
-## Weekend 1 — [date]
-- Whats done: Setting up the repo structure (Probably the only thing thats gonna be done)
-- Decided: Linux raw syscalls + Windows Winsock, shared DNS layer
-- Decided: GUI is a separate Python process, control port 5354
-- Next: socket(AF_INET, SOCK_DGRAM, 0) syscall smoke test
+## Weekend 1 — [today's date]
+- Set up repo, toolchain (nasm + ld), Makefile
+- Wrote banner/help arg parser with -h and -p stubs
+- Fought dpkg on WSL; resolved
+- Current behavior: `./dnsd -h` prints banner + help, exits 0;
+  `./dnsd` exits 1 (deliberate — revisit when daemon path exists)
+- Next: socket() + bind() smoke test
