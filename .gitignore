@@ -1,0 +1,23 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+dnsd
+dnsd.exe
+hexdump
+hexdump.exe
+
+# NASM listings (generate locally, don't commit)
+*.lst
+*.map
+
+# Test scratch
+tests/tmp/
+
+# GUI
+gui/__pycache__/
+gui/*.pyc
+
+# Editors
+.vscode/
+*.swp
