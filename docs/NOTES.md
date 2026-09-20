@@ -1,4 +1,4 @@
-## Weekend 1 — [today's date]
+## Weekend 1 — 2026.09.20
 - Set up repo, toolchain (nasm + ld), Makefile
 - Wrote banner/help arg parser with -h and -p stubs
 - Fought dpkg on WSL; resolved
