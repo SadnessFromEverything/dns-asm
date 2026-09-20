@@ -1,0 +1,4 @@
+- https://leopard-adc.pepas.com/documentation/DeveloperTools/nasm/nasmdocb.html
+- https://networkencyclopedia.com/windows-sockets/
+- https://cburch.com/csbsju/cs/350/docs/nasm/nasmdoc0.html
+- https://www.cs.uaf.edu/2017/fall/cs301/reference/x86_64.html
